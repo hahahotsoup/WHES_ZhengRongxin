@@ -1,0 +1,55 @@
+{
+    "spec": 2,
+    "metadata": {
+        "name": "正融新",
+        "tips": "养正融新",
+        "license": {
+            "type": "CC BY-NC-SA 4.0",
+            "desc:": "署名-非商业性使用-相同方式共享 4.0 国际"
+        },
+        "authors": [
+            {
+                "name": "hahahotsoup",
+                "avatar": "avatar/avator.png",
+                "role": "作者",
+                "contact": {
+                    "github": "https://github.com/hahahotsoup"
+                },
+                "comment": "nope"
+            }
+        ]
+    },
+    "properties": {
+        "extra_animation": {
+            "extra0": "",
+            "extra1": "打招呼",
+            "run": "润",
+            "walk": "跑路",
+            "extra4": "",
+            "extra5": "",
+            "extra6": "",
+            "extra7": ""
+        },
+        "preview_animation": "pre_parallel0",
+        "default_texture": "default",
+        "free": false,
+        "render_layers_first": false
+    },
+    "files": {
+        "player": {
+            "model": {
+                "main": "models/main.json",
+                "arm": "models/arm.json"
+            },
+            "animation": {
+                "main": "animations/main.animation.json",
+                "arm": "animations/arm.animation.json",
+                "extra": "animations/extra.animation.json",
+                "tac": "animations/tac.animation.json"
+            },
+            "texture": [
+                "textures/default.png"
+            ]
+        }
+    }
+}
