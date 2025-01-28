@@ -5,3 +5,5 @@
 关于ysm是什么请查阅https://www.bilibili.com/video/BV1akqAYaEii
 
 仅支持电脑版，允许修改，且禁止使用该模型进行挑战底线的事情（包括涩涩
+
+tip:导入blockbench的时候模型纹理分辨率改为2048*2048，否则会掉san
